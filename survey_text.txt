@@ -1,0 +1,110 @@
+## raw text from google docs forms survey. original URL docs.google.com/forms/u/1/d/1KHuQD4EhHq_w1_wudkunZhDJSH1SxnpbOcWSBwebrEU/
+
+Planetary Science Software Survey
+This survey is a component of research on planetary science professionals' use of data sources and software tools, especially Python tools. The survey is intended to be completely anonymous; please do not include individually identifying information in your responses. It is a community project with participants from organizations including the University of Colorado, USGS, Johns Hopkins University, the Naval Research Laboratory, Million Concepts, and OpenPlanetary.Your responses will provide valuable data for developers attempting to improve the community code base, and we deeply appreciate your time.
+* Required
+In your professional role, what proportion of your time is spent on the following activities? *
+None
+< 25%
+25-50%
+50-75%
+> 75%
+Scientific research
+Software development and data management
+Administration
+Other
+Scientific research
+Software development and data management
+Administration
+Other
+Which of the following scientific software and data management tasks have served as major time sinks for you? *
+SPICE Kernel Management
+PDS metadata handling
+PDS search interface management and navigation
+Software library integration
+PDS data ingestion
+Tooling for data exploration (for instance, writing spectral binning tools for spectrographic data)
+ISIS integration
+Other:
+What major planetary data sources do you regularly use? *
+OPUS
+PDS Image Atlas
+PDS Geosciences ODE
+GeoWebCalc
+Trek Viewers
+Mars Space Flight Facility JMARS
+Lunaserv
+USGS Image Processing Cloud (PILOT, POW, MAP2, &c)
+iMars webGIS and the Planetary Surface Portal (iMars, MarsSI, MarsVisu, MIZAR, &c)
+HRSCView
+Other:
+Do you regularly use Python in your scientific work? *
+Yes
+No
+What other programming languages, if any, do you regularly use in your scientific work?
+Do you use the Anaconda distribution of Python? *
+Yes
+No
+How much do you use Jupyter Notebook? *
+Not at all
+Occasionally
+Frequently
+All the time
+Which of the following other Python libraries, tools, and frameworks ("things") do you use in your scientific work?
+numpy
+pandas
+rasterio
+scipy
+geopandas
+numba
+spiceypy
+cython
+scikit-image
+astropy
+fiona
+rtree
+gdal
+statsmodels
+pyproj
+xarray
+shapely
+scikit-learn
+sbpy
+OpenCV
+Django
+Flask
+Other:
+The next three questions ask you to describe difficulties you encounter with Python things that you frequently use in your scientific work. If you can only think of one or two Python things you encounter difficulties with, that's still useful.
+Name of Python thing 1:
+What deficiencies do you find in this thing?
+Inadequate integration with other Python libraries and tools
+Inadequate integration with non-Python software and data sources
+Inability to handle data formats common in planetary science
+Inability to interface with common planetary data sources
+Poor performance
+High learning curve or poor documentation
+Generally bad user experience
+Other:
+Name of Python thing 2:
+What deficiencies do you find in this thing?
+Inadequate integration with other Python libraries and tools
+Inadequate integration with non-Python software and data sources
+Inability to handle data formats common in planetary science
+Inability to interface with common planetary data sources
+Poor performance
+High learning curve or poor documentation
+Generally bad user experience
+Other:
+Name of Python thing 3:
+What deficiencies do you find in this thing?
+Inadequate integration with other Python libraries and tools
+Inadequate integration with non-Python software and data sources
+Inability to handle data formats common in planetary science
+Inability to interface with common planetary data sources
+Poor performance
+High learning curve or poor documentation
+Generally bad user experience
+Other:
+Never submit passwords through Google Forms.
+This form was created inside of Million Concepts. Report Abuse
+Google Forms
