@@ -5,3 +5,6 @@ conducted in 2019. Contributors to this project included Michael Aye, Angeline B
 Trent Hare, Jason Laura, Andrew Annex, MaryJon Barrineau, Michael St. Clair, and Chase Million.
 The report was written by Michael St. Clair and does not necessarily represent the positions
 of any other contributors or their affiliate organizations.
+
+The Creative Commons license in this repository applies to the report only. The survey is 
+copyright of all listed contributors and not licensed for distribution.
